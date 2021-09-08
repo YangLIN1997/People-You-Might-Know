@@ -8,6 +8,6 @@ Let us use a simple algorithm such that, for each user U, the algorithm rec- omm
 ### Requirement: 
 PySpark 3.1.2
 
-### Requirement: 
+### Author: 
 Yang Lin
 
